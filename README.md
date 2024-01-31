@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Rashedujjaman Reza
-- 👀 I’m interested in solving any Java programming problem including GUI.
-- 🌱 I’m currently learning Java, Python programming as a software engineering student at UTHM.
-- 💞️ I’m looking to collaborate on solving critical Java programming code.
+- 👀 I’m interested in solving any Java, C, C#, Python, Dart, JavaScript, PHP programming problem including GUI.
+- 🌱 I’m currently working on Java, C, C#, Python, Dart, JavaScript, PHP programming as a software engineering student at UTHM.
+- 💞️ I’m looking to collaborate on solving critical programming code mostly Java.
 - 📫 You can reach me through whatsapp +60 1161342013
 
 <!---
