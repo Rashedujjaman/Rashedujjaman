@@ -1,5 +1,7 @@
-- 👋 Always Keen To Learn
-- 👀 Currently I’m interested in solving Java, Dart, JavaScript
+- A dedicated full stack developer.
+- Specialized in Dotnet Core, Angular, Flutter framawork
+- Strong understanding of OOPs & DSA
+- Keen to learn new technologies and trends.
 
 <!---
 Rashedujjaman/Rashedujjaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
